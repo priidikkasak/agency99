@@ -1,0 +1,511 @@
+{
+  "meta": {
+    "title": "Agency 99 – AI Automation, Systems & Web",
+    "description": "We build AI automations, robust systems, and websites that convert. Based in Estonia, working globally.",
+    "titleWork": "Work – Agency 99",
+    "titleServices": "Services – Agency 99",
+    "titleProcess": "Process – Agency 99",
+    "titleContact": "Contact – Agency 99",
+    "titleLegal": "Legal – Agency 99"
+  },
+  "nav": {
+    "work": "Work",
+    "services": "Services",
+    "process": "Process",
+    "contact": "Contact",
+    "cta": "Start a project",
+    "langSwitch": "ET"
+  },
+  "footer": {
+    "tagline": "Automations that ship. Systems that hold. Websites that convert.",
+    "work": "Work",
+    "services": "Services",
+    "process": "Process",
+    "contact": "Contact",
+    "legal": "Legal",
+    "email": "hello@agency99.ee",
+    "copy": "© 2025 Agency 99. All rights reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "home": {
+    "hero": {
+      "overline": "AI Automation Studio",
+      "headline": "Automations that ship. Systems that hold. Websites that convert.",
+      "sub": "We design and build the infrastructure that makes your operation faster, smarter, and more leveraged. No fluff. Just things that work.",
+      "cta1": "See our work",
+      "cta2": "Talk to us"
+    },
+    "proof": {
+      "items": [
+        { "value": "40+", "label": "Automations deployed" },
+        { "value": "8,000+", "label": "Hours saved for clients" },
+        { "value": "3×", "label": "Avg conversion uplift" }
+      ]
+    },
+    "what": {
+      "overline": "What we build",
+      "headline": "Three disciplines. One studio.",
+      "sub": "Each engagement lives at the intersection of automation, systems thinking, and web craft.",
+      "items": [
+        {
+          "label": "AI Automations",
+          "desc": "Multi-step workflows that eliminate manual overhead. Data pipelines, trigger-based actions, and AI-assisted decision layers that run while you sleep."
+        },
+        {
+          "label": "Systems",
+          "desc": "Internal tooling, dashboards, and operational infrastructure. Built to last and scale without constant babysitting or technical debt."
+        },
+        {
+          "label": "Web",
+          "desc": "Conversion-focused websites and apps that are fast, accessible, and built with clear intent—not pulled from a template directory."
+        }
+      ]
+    },
+    "automationMap": {
+      "overline": "How it flows",
+      "headline": "Every automation follows a pattern.",
+      "sub": "Click any node to see what we build at each stage.",
+      "outcomeLabel": "Outcome",
+      "nodes": {
+        "input": {
+          "label": "Input",
+          "title": "Data Ingestion",
+          "desc": "Structured triggers from forms, APIs, webhooks, databases, or scheduled crons that kick off the flow reliably.",
+          "outcome": "Zero manual triggers needed. Inputs arrive from anywhere your data already lives."
+        },
+        "process": {
+          "label": "Process",
+          "title": "Processing & Enrichment",
+          "desc": "Raw inputs are cleaned, enriched, classified, or transformed using custom logic or AI models before any action is taken.",
+          "outcome": "Clean, structured data ready for downstream action—no spreadsheet gymnastics."
+        },
+        "decide": {
+          "label": "Decide",
+          "title": "Decision Layer",
+          "desc": "Rules, conditions, and model outputs route each item to the correct outcome without human intervention at every step.",
+          "outcome": "Consistent, auditable decision-making at scale, 24 hours a day."
+        },
+        "act": {
+          "label": "Act",
+          "title": "Action Execution",
+          "desc": "Write to databases, update records, generate documents, send messages, or trigger downstream systems automatically.",
+          "outcome": "The right thing happens automatically—every single time, without prompting."
+        },
+        "notify": {
+          "label": "Notify",
+          "title": "Alerts & Reporting",
+          "desc": "Summaries, exception alerts, and status updates delivered to the right people at exactly the right time.",
+          "outcome": "Stay informed without constant monitoring. Only get pinged when it actually matters."
+        }
+      }
+    },
+    "cases": {
+      "overline": "Selected work",
+      "headline": "Built and shipped.",
+      "cta": "View all work"
+    },
+    "packages": {
+      "overline": "Packages",
+      "headline": "Pick your scope.",
+      "sub": "All packages include discovery, design, build, and a structured handover session.",
+      "popular": "Most popular",
+      "getStarted": "Get started",
+      "items": [
+        {
+          "name": "Sprint",
+          "duration": "1–2 weeks",
+          "price": "€2,500–5,000",
+          "desc": "One focused problem, solved fast.",
+          "features": [
+            "Single automation or landing page",
+            "1 revision cycle",
+            "Async collaboration",
+            "Handover + documentation"
+          ]
+        },
+        {
+          "name": "Build",
+          "duration": "3–6 weeks",
+          "price": "€8,000–20,000",
+          "desc": "A full system or site built end-to-end.",
+          "features": [
+            "Multi-step automation or full website",
+            "Weekly syncs included",
+            "2 revision cycles",
+            "3 months post-ship support"
+          ],
+          "featured": true
+        },
+        {
+          "name": "Partner",
+          "duration": "Monthly",
+          "price": "€3,000–8,000/mo",
+          "desc": "Ongoing build capacity and strategic input.",
+          "features": [
+            "Continuous development",
+            "Weekly strategy calls",
+            "Priority turnaround",
+            "Dedicated Slack channel"
+          ]
+        }
+      ]
+    },
+    "processSnap": {
+      "overline": "How we work",
+      "headline": "Five steps. No surprises.",
+      "cta": "See full process",
+      "steps": [
+        { "n": "01", "label": "Audit", "desc": "We map your existing workflow, identify bottlenecks, and scope the build." },
+        { "n": "02", "label": "Blueprint", "desc": "Architecture, data flow, and component design—agreed before a line of code." },
+        { "n": "03", "label": "Build", "desc": "Iterative delivery. You see progress every week." },
+        { "n": "04", "label": "Ship", "desc": "Staged release, QA, and handover with documentation." },
+        { "n": "05", "label": "Iterate", "desc": "Post-launch improvements driven by real usage and feedback." }
+      ]
+    },
+    "roi": {
+      "overline": "ROI Calculator",
+      "headline": "See the math.",
+      "sub": "A rough estimate. Your actual savings will usually be higher.",
+      "inputs": {
+        "hours": "Manual hours per week",
+        "people": "Team members doing it",
+        "rate": "Average hourly cost (€)"
+      },
+      "output": {
+        "label": "Estimated monthly savings",
+        "note": "Based on 80% automation coverage · 4.3 weeks/month"
+      },
+      "perMonth": "/mo",
+      "annualLabel": "Annual potential",
+      "perYear": "/yr",
+      "disclaimer": "This is an estimate based on reported automation coverage averages. Actual results depend on process complexity and automation depth.",
+      "currency": "€"
+    },
+    "faq": {
+      "overline": "FAQ",
+      "headline": "Common questions.",
+      "items": [
+        {
+          "q": "Do you work with clients outside Estonia?",
+          "a": "Yes. Most of our clients are remote. We work async-first with weekly or bi-weekly syncs. Time zone overlap isn't a hard requirement."
+        },
+        {
+          "q": "We're not technical. Can we still work together?",
+          "a": "Yes. We translate complexity into plain outcomes. You don't need to understand the stack—you need to understand the result, and we make sure you do."
+        },
+        {
+          "q": "How fast can you start?",
+          "a": "Usually within 1–2 weeks of a signed agreement. Sprint projects can sometimes start sooner depending on current capacity."
+        },
+        {
+          "q": "What if the project scope changes mid-build?",
+          "a": "Scope changes happen. We flag them early, assess impact, and agree before proceeding. There are no surprise invoices."
+        },
+        {
+          "q": "Do you maintain what you build?",
+          "a": "Sprint and Build packages include a support window. For ongoing maintenance and continuous iteration, the Partner package is the right fit."
+        }
+      ]
+    },
+    "cta": {
+      "headline": "Ready to move?",
+      "sub": "Tell us what you're trying to fix. We'll tell you if we can help.",
+      "cta": "Start a conversation"
+    },
+    "qualify": {
+      "overline": "Is this a fit?",
+      "headline": "Built for the right people.",
+      "for": {
+        "label": "This is for you if:",
+        "items": [
+          "You're losing hours to manual, repeatable work",
+          "You need a system that scales without constant hiring",
+          "You want a website built with intent, not a template",
+          "You move fast and expect the same from who you hire"
+        ]
+      },
+      "notFor": {
+        "label": "This isn't for you if:",
+        "items": [
+          "You need a €300 website",
+          "You have no defined outcome or problem to solve",
+          "You expect a waterfall process with monthly status reports",
+          "You want someone to manage your existing tools for you"
+        ]
+      }
+    }
+  },
+  "work": {
+    "overline": "Case Studies",
+    "headline": "Work that shipped.",
+    "sub": "A selection of builds across automation, systems, and web.",
+    "readMore": "Read case study",
+    "problem": "Problem",
+    "approach": "Approach",
+    "solution": "Solution",
+    "outcome": "Outcome",
+    "results": "Results",
+    "stack": "Stack",
+    "gallery": "Gallery",
+    "similarChallenge": "Have a similar challenge? Let's talk.",
+    "startConversation": "Start a conversation",
+    "backToWork": "← All work",
+    "categories": {
+      "automation": "Automation",
+      "systems": "Systems",
+      "web": "Web"
+    }
+  },
+  "services": {
+    "overline": "Services",
+    "headline": "What we do.",
+    "sub": "Three disciplines with one shared standard: built to work, built to last.",
+    "cta": "Start a project",
+    "items": [
+      {
+        "label": "AI Automations",
+        "tagline": "Workflows that run themselves.",
+        "desc": "We design and build end-to-end automation pipelines that eliminate manual overhead across your operation. From simple triggers to complex AI-assisted decision flows.",
+        "outcomes": [
+          "Manual task time reduced by 70–95%",
+          "Consistent process execution, 24/7",
+          "Fewer human errors, faster throughput",
+          "Real-time visibility into what's running"
+        ],
+        "deliverables": [
+          "Workflow architecture document",
+          "Built and tested automation pipeline",
+          "Monitoring and alerting setup",
+          "Runbook and handover documentation"
+        ],
+        "timeline": "1–6 weeks depending on complexity",
+        "engagement": [
+          "Trigger-based workflows (webhooks, crons, forms)",
+          "Data transformation and enrichment pipelines",
+          "AI-assisted classification and routing",
+          "Multi-system orchestration and sync"
+        ]
+      },
+      {
+        "label": "Systems",
+        "tagline": "Infrastructure that scales.",
+        "desc": "Internal tooling, dashboards, and operational systems that give your team leverage. We build the things that make your core business run better without needing more headcount.",
+        "outcomes": [
+          "Full operational visibility in one place",
+          "Reduced coordination overhead",
+          "Systems that scale with your team",
+          "No vendor lock-in or black-box tools"
+        ],
+        "deliverables": [
+          "System architecture and data model",
+          "Functional internal application",
+          "Admin and role-based access controls",
+          "Technical documentation"
+        ],
+        "timeline": "3–8 weeks depending on scope",
+        "engagement": [
+          "Internal dashboards and reporting tools",
+          "Operational data pipelines",
+          "Custom CRM or workflow tooling",
+          "Integration layers between existing systems"
+        ]
+      },
+      {
+        "label": "Web",
+        "tagline": "Websites that convert.",
+        "desc": "Performance-first websites and landing pages built for conversion and clarity. We handle strategy, design, and build—so the output reflects your positioning, not a template.",
+        "outcomes": [
+          "Measurably higher conversion rates",
+          "Sub-2s load times on all devices",
+          "Accessible, SEO-ready from day one",
+          "Copy and structure that earns trust"
+        ],
+        "deliverables": [
+          "Strategy and sitemap session",
+          "Full design and build",
+          "CMS setup if required",
+          "Performance and accessibility audit"
+        ],
+        "timeline": "2–6 weeks depending on scope",
+        "engagement": [
+          "Marketing and product landing pages",
+          "Full company or product websites",
+          "Campaign microsites",
+          "Conversion-focused page rebuilds"
+        ]
+      }
+    ],
+    "outcomesLabel": "Outcomes",
+    "deliverablesLabel": "Deliverables",
+    "timelineLabel": "Timeline",
+    "engagementLabel": "Typical engagement",
+    "notSureText": "Not sure which service fits? Tell us the problem—we'll figure out the right approach together."
+  },
+  "process": {
+    "overline": "Process",
+    "headline": "Five steps. No surprises.",
+    "sub": "Every project follows the same structure. You know where you are at every stage.",
+    "steps": [
+      {
+        "n": "01",
+        "label": "Audit",
+        "desc": "We start by understanding your current state. What's working, what isn't, where the time and money is leaking. This shapes everything that comes after.",
+        "details": [
+          "Current workflow mapping",
+          "Bottleneck and risk identification",
+          "Scope and success criteria definition",
+          "Project brief and alignment document"
+        ]
+      },
+      {
+        "n": "02",
+        "label": "Blueprint",
+        "desc": "Before a line of code, we agree on architecture. Data flows, component structure, integrations, and edge cases—all documented and signed off.",
+        "details": [
+          "Technical architecture design",
+          "Data model and flow diagrams",
+          "Component and integration spec",
+          "Timeline and milestone agreement"
+        ]
+      },
+      {
+        "n": "03",
+        "label": "Build",
+        "desc": "Iterative development with weekly check-ins. You see real progress every week—not a big reveal at the end. Feedback is incorporated as we go.",
+        "details": [
+          "Weekly async progress updates",
+          "Incremental feature delivery",
+          "Continuous testing and QA",
+          "Scope change flagging in real time"
+        ]
+      },
+      {
+        "n": "04",
+        "label": "Ship",
+        "desc": "Staged release, final QA, and a structured handover. You get documentation, a walkthrough session, and everything you need to operate what we built.",
+        "details": [
+          "Staged deployment and final QA",
+          "Performance and security checks",
+          "Live handover session",
+          "Full technical documentation"
+        ]
+      },
+      {
+        "n": "05",
+        "label": "Iterate",
+        "desc": "The best systems improve after launch. We offer structured post-launch support and iteration cycles based on real usage, data, and feedback.",
+        "details": [
+          "Post-launch monitoring period",
+          "Usage-driven iteration backlog",
+          "Performance optimization",
+          "Ongoing Partner engagement available"
+        ]
+      }
+    ],
+    "detailsLabel": "What happens here:",
+    "cta": {
+      "headline": "Ready to start?",
+      "cta": "Begin with an audit"
+    }
+  },
+  "contact": {
+    "overline": "Contact",
+    "headline": "Tell us about your project.",
+    "sub": "We read every message and respond within one business day.",
+    "form": {
+      "name": "Full name",
+      "email": "Email address",
+      "company": "Company",
+      "website": "Website (optional)",
+      "message": "What are you trying to solve?",
+      "budget": "Budget range",
+      "budgetOptions": [
+        "Under €2,500",
+        "€2,500–5,000",
+        "€5,000–10,000",
+        "€10,000–25,000",
+        "€25,000+"
+      ],
+      "urgency": "Timeline",
+      "urgencyOptions": [
+        "As soon as possible",
+        "Within 1 month",
+        "1–3 months",
+        "Just exploring"
+      ],
+      "budgetPlaceholder": "Select range",
+      "urgencyPlaceholder": "Select timeline",
+      "submit": "Send message",
+      "submitting": "Sending..."
+    },
+    "thanks": {
+      "headline": "Message received.",
+      "sub": "We'll get back to you within one business day. In the meantime, check out our recent work.",
+      "cta": "View our work"
+    },
+    "info": {
+      "emailLabel": "Email us directly",
+      "email": "hello@agency99.ee",
+      "responseLabel": "Response time",
+      "response": "Within 1 business day",
+      "locationLabel": "Based in",
+      "location": "Tallinn, Estonia"
+    }
+  },
+  "legal": {
+    "overline": "Legal",
+    "privacy": {
+      "headline": "Privacy Policy",
+      "updated": "Last updated: January 2025",
+      "sections": [
+        {
+          "title": "Information we collect",
+          "body": "We collect information you provide directly when you use our contact form, including your name, email address, company name, and project details. We do not collect data through cookies or tracking scripts."
+        },
+        {
+          "title": "How we use your information",
+          "body": "We use the information you provide solely to respond to your enquiry and, if you become a client, to deliver our services. We do not sell, rent, or share your data with third parties for marketing purposes."
+        },
+        {
+          "title": "Data retention",
+          "body": "We retain contact information for as long as necessary to fulfil the purpose for which it was collected. You may request deletion of your data at any time by contacting us at hello@agency99.ee."
+        },
+        {
+          "title": "Your rights",
+          "body": "Under GDPR, you have the right to access, rectify, or erase your personal data. You also have the right to object to processing and to data portability. To exercise these rights, contact us at hello@agency99.ee."
+        },
+        {
+          "title": "Contact",
+          "body": "For privacy-related questions, contact hello@agency99.ee."
+        }
+      ]
+    },
+    "terms": {
+      "headline": "Terms of Service",
+      "updated": "Last updated: January 2025",
+      "sections": [
+        {
+          "title": "Acceptance of terms",
+          "body": "By engaging Agency 99 for services, you agree to these terms. A formal engagement begins with a signed proposal or statement of work."
+        },
+        {
+          "title": "Services",
+          "body": "Agency 99 provides AI automation, systems building, and web development services as described in each project's scope of work. Deliverables and timelines are agreed in writing before work begins."
+        },
+        {
+          "title": "Payment",
+          "body": "Payment terms are outlined in each project agreement. Invoices are due within 14 days of issue unless otherwise agreed in writing."
+        },
+        {
+          "title": "Intellectual property",
+          "body": "Upon full payment, clients receive ownership of all custom code and assets created for their project. Agency 99 retains the right to display work in its portfolio unless agreed otherwise."
+        },
+        {
+          "title": "Limitation of liability",
+          "body": "Agency 99's liability is limited to the value of the relevant project agreement. We are not liable for indirect or consequential damages arising from use of our deliverables."
+        }
+      ]
+    }
+  }
+}

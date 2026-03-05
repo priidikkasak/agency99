@@ -1,0 +1,511 @@
+{
+  "meta": {
+    "title": "Agency 99 – AI Automatiseerimine, Süsteemid & Veeb",
+    "description": "Ehitame AI automatiseeringuid, töökindlaid süsteeme ja veebe, mis konverteerivad. Asume Eestis, töötame globaalselt.",
+    "titleWork": "Tööd – Agency 99",
+    "titleServices": "Teenused – Agency 99",
+    "titleProcess": "Protsess – Agency 99",
+    "titleContact": "Kontakt – Agency 99",
+    "titleLegal": "Õiguslik – Agency 99"
+  },
+  "nav": {
+    "work": "Tööd",
+    "services": "Teenused",
+    "process": "Protsess",
+    "contact": "Kontakt",
+    "cta": "Alusta projekti",
+    "langSwitch": "EN"
+  },
+  "footer": {
+    "tagline": "Automatiseeringud, mis töötavad. Süsteemid, mis peavad. Veebid, mis müüvad.",
+    "work": "Tööd",
+    "services": "Teenused",
+    "process": "Protsess",
+    "contact": "Kontakt",
+    "legal": "Õiguslik",
+    "email": "hello@agency99.ee",
+    "copy": "© 2025 Agency 99. Kõik õigused kaitstud.",
+    "privacy": "Privaatsus",
+    "terms": "Tingimused"
+  },
+  "home": {
+    "hero": {
+      "overline": "AI Automatiseerimise Stuudio",
+      "headline": "Automatiseeringud, mis töötavad. Süsteemid, mis peavad. Veebid, mis müüvad.",
+      "sub": "Kujundame ja ehitame taristu, mis muudab sinu ettevõtte kiiremaks, targemaks ja kasumlikumaks. Ilma üleliigse jututa. Ainult asjad, mis toimivad.",
+      "cta1": "Vaata meie töid",
+      "cta2": "Räägi meiega"
+    },
+    "proof": {
+      "items": [
+        { "value": "40+", "label": "Automatiseeringut käivitatud" },
+        { "value": "8 000+", "label": "Klientide tunde säästetud" },
+        { "value": "3×", "label": "Keskmine konversiooni kasv" }
+      ]
+    },
+    "what": {
+      "overline": "Mida me ehitame",
+      "headline": "Kolm valdkonda. Üks stuudio.",
+      "sub": "Iga projekt elab automatiseerimise, süsteemse mõtlemise ja veebitöö ristumiskohas.",
+      "items": [
+        {
+          "label": "AI Automatiseeringud",
+          "desc": "Mitmeastmelised töövood, mis eemaldavad manuaalse töö. Andmekonveierid, käivituspõhised toimingud ja AI-toega otsustuskihid, mis töötavad öösel, kui sa magad."
+        },
+        {
+          "label": "Süsteemid",
+          "desc": "Sisemised tööriistad, juhtpaneelid ja operatiivne taristu. Ehitatud kestma ja skaleeruma ilma pidevate kulukate täiustuste ja tehnilise võlata."
+        },
+        {
+          "label": "Veeb",
+          "desc": "Konversioonile orienteeritud veebilehed ja rakendused, mis on kiired, ligipääsetavad ja ehitatud selge eesmärgiga—mitte võetud malli kataloogist."
+        }
+      ]
+    },
+    "automationMap": {
+      "overline": "Kuidas see töötab",
+      "headline": "Iga automatiseering järgib mustrit.",
+      "sub": "Klõpsa mõnele sõlmele, et näha, mida me igas etapis ehitame.",
+      "outcomeLabel": "Tulemus",
+      "nodes": {
+        "input": {
+          "label": "Sisend",
+          "title": "Andmete sisestamine",
+          "desc": "Struktureeritud käivitajad vormidest, API-dest, webhookidest, andmebaasidest või ajastatud tööülesannetest, mis käivitavad voo usaldusväärselt.",
+          "outcome": "Manuaalseid käivitajaid pole vaja. Sisendid saabuvad igalt poolt, kus sinu andmed juba asuvad."
+        },
+        "process": {
+          "label": "Töötlus",
+          "title": "Töötlemine ja rikastamine",
+          "desc": "Toored sisendid puhastatakse, rikastatakse, klassifitseeritakse või teisendatakse kohandatud loogika või AI mudelite abil enne mis tahes toimingu tegemist.",
+          "outcome": "Puhtad, struktureeritud andmed järgmiste toimingute jaoks valmis—ilma tabelite segamiseta."
+        },
+        "decide": {
+          "label": "Otsus",
+          "title": "Otsustuskiht",
+          "desc": "Reeglid, tingimused ja mudeli väljundid suunavad iga kirje õigele tulemusele ilma inimese sekkumiseta igas etapis.",
+          "outcome": "Järjepidev, auditeeritav otsuste tegemine suures mahus, 24 tundi ööpäevas."
+        },
+        "act": {
+          "label": "Toiming",
+          "title": "Toimingu täitmine",
+          "desc": "Kirjuta andmebaasidesse, uuenda kirjeid, genereeri dokumente, saada sõnumeid või käivita alamsüsteeme automaatselt.",
+          "outcome": "Õige asi juhtub automaatselt—iga kord, ilma käsitsitöö."
+        },
+        "notify": {
+          "label": "Teavitus",
+          "title": "Teavitused ja aruandlus",
+          "desc": "Kokkuvõtted, erandi teavitused ja olekuvärskendused toimetatakse õigetele inimestele täpselt õigel ajal.",
+          "outcome": "Jää kursis ilma pideva jälgimiseta. Saa teavitusi ainult siis, kui see tegelikult oluline on."
+        }
+      }
+    },
+    "cases": {
+      "overline": "Valitud tööd",
+      "headline": "Ehitatud ja tarnitud.",
+      "cta": "Vaata kõiki töid"
+    },
+    "packages": {
+      "overline": "Paketid",
+      "headline": "Vali oma ulatus.",
+      "sub": "Kõik paketid sisaldavad avastamist, disaini, ehitamist ja struktureeritud üleandmissessiooni.",
+      "popular": "Populaarseim",
+      "getStarted": "Alusta",
+      "items": [
+        {
+          "name": "Sprint",
+          "duration": "1–2 nädalat",
+          "price": "€2 500–5 000",
+          "desc": "Üks fokusseeritud probleem, lahendatakse kiiresti.",
+          "features": [
+            "Üks automatiseering või maandumisleht",
+            "1 revisioonifor ring",
+            "Asünkroonne koostöö",
+            "Üleandmine + dokumentatsioon"
+          ]
+        },
+        {
+          "name": "Build",
+          "duration": "3–6 nädalat",
+          "price": "€8 000–20 000",
+          "desc": "Täielik süsteem või sait ehitatud algusest lõpuni.",
+          "features": [
+            "Mitmeastmeline automatiseering või täis veebileht",
+            "Iganädalased sünkroonid",
+            "2 revisiooniringi",
+            "3 kuud pärast tarnimist tugiteenust"
+          ],
+          "featured": true
+        },
+        {
+          "name": "Partner",
+          "duration": "Kuumaksuline",
+          "price": "€3 000–8 000/kuus",
+          "desc": "Jätkuv ehitusvõimsus ja strateegiline sisend.",
+          "features": [
+            "Pidev arendus",
+            "Iganädalased strateegiakõned",
+            "Prioriteetne täitmisaeg",
+            "Spetsiaalne Slack kanal"
+          ]
+        }
+      ]
+    },
+    "processSnap": {
+      "overline": "Kuidas me töötame",
+      "headline": "Viis sammu. Ei üllatusi.",
+      "cta": "Vaata täielikku protsessi",
+      "steps": [
+        { "n": "01", "label": "Audit", "desc": "Kaardistame sinu praeguse töövoo, tuvastame kitsaskohad ja skopime ehituse." },
+        { "n": "02", "label": "Plaan", "desc": "Arhitektuur, andmevoog ja komponentide disain—kokkulepitud enne ühtegi koodirida." },
+        { "n": "03", "label": "Ehitus", "desc": "Iteratiivne tarnimine. Näed edenemist iga nädal." },
+        { "n": "04", "label": "Tarne", "desc": "Lavastatud väljalase, kvaliteedikontroll ja üleandmine koos dokumentatsiooniga." },
+        { "n": "05", "label": "Itereeri", "desc": "Pärast tarnimist täiustused, mis põhinevad reaalsel kasutamisel ja tagasisidel." }
+      ]
+    },
+    "roi": {
+      "overline": "ROI kalkulaator",
+      "headline": "Vaata arve.",
+      "sub": "Ligikaudne hinnang. Tegelikud säästud on tavaliselt suuremad.",
+      "inputs": {
+        "hours": "Manuaalseid tunde nädalas",
+        "people": "Meeskonnaliikmeid seda tegemas",
+        "rate": "Keskmine tunnitöö hind (€)"
+      },
+      "output": {
+        "label": "Hinnanguline kuusääst",
+        "note": "Põhineb 80% automatiseerimise katvusel · 4,3 nädalat/kuus"
+      },
+      "perMonth": "/kuus",
+      "annualLabel": "Aastane potentsiaal",
+      "perYear": "/aastas",
+      "disclaimer": "See on hinnang, mis põhineb automatiseerimise katvuse keskmistel näitajatel. Tegelikud tulemused sõltuvad protsessi keerukusest ja automatiseerimise sügavusest.",
+      "currency": "€"
+    },
+    "faq": {
+      "overline": "KKK",
+      "headline": "Sagedased küsimused.",
+      "items": [
+        {
+          "q": "Kas töötate ka välisriikide klientidega?",
+          "a": "Jah. Enamik meie kliente on kaugkliendid. Töötame asünkroonse suhtluse põhimõttel koos iganädalaste või kahenädalaste sünkroonidega. Ajavööndi kattumine pole kohustuslik nõue."
+        },
+        {
+          "q": "Me pole tehnilised. Kas saame siiski koos töötada?",
+          "a": "Jah. Muudame keerukuse selgeteks tulemusteks. Sa ei pea mõistma tehnilist poolt—pead mõistma tulemust, ja veendume, et sa seda teed."
+        },
+        {
+          "q": "Kui kiiresti saate alustada?",
+          "a": "Tavaliselt 1–2 nädala jooksul pärast allkirjastatud lepingut. Sprint-projektid võivad mõnikord varem alata, sõltuvalt praegusest mahust."
+        },
+        {
+          "q": "Mis juhtub, kui projekti ulatus ehitamise keskel muutub?",
+          "a": "Ulatus muutub. Märgistame need varakult, hindame mõju ja lepime kokku enne edasiminekut. Üllatusarveid pole."
+        },
+        {
+          "q": "Kas hooldad ka seda, mida ehitad?",
+          "a": "Sprint ja Build paketid sisaldavad tugiteenuse akent. Jätkuva hoolduse ja iteratsioonide jaoks sobib Partner pakett."
+        }
+      ]
+    },
+    "cta": {
+      "headline": "Valmis liikuma?",
+      "sub": "Räägi meile, mida sa püüad parandada. Me ütleme sulle, kas saame aidata.",
+      "cta": "Alusta vestlust"
+    },
+    "qualify": {
+      "overline": "Kas see sobib?",
+      "headline": "Ehitatud õigetele inimestele.",
+      "for": {
+        "label": "See sobib sulle, kui:",
+        "items": [
+          "Kaotad tunde manuaalsele, korratavale tööle",
+          "Vajad süsteemi, mis skaleerub ilma pidevalt palkamata",
+          "Soovid veebilehte, mis on ehitatud eesmärgiga, mitte mallist",
+          "Liigud kiiresti ja ootad sama neilt, kelle palukad"
+        ]
+      },
+      "notFor": {
+        "label": "See pole sulle, kui:",
+        "items": [
+          "Vajad €300 veebilehte",
+          "Sul pole defineeritud tulemust ega probleemi lahendada",
+          "Ootad juga-protsessi koos igakuiste olekuaruannetega",
+          "Soovid kedagi, kes haldab sinu olemasolevaid tööriistu"
+        ]
+      }
+    }
+  },
+  "work": {
+    "overline": "Juhtumiuuringud",
+    "headline": "Tööd, mis tarniti.",
+    "sub": "Valik ehitisi automatiseerimise, süsteemide ja veebi valdkonnas.",
+    "readMore": "Loe juhtumiuuringut",
+    "problem": "Probleem",
+    "approach": "Lähenemine",
+    "solution": "Lahendus",
+    "outcome": "Tulemus",
+    "results": "Tulemused",
+    "stack": "Tehnoloogiad",
+    "gallery": "Galerii",
+    "similarChallenge": "Sarnane väljakutse? Räägime.",
+    "startConversation": "Alusta vestlust",
+    "backToWork": "← Kõik tööd",
+    "categories": {
+      "automation": "Automatiseerimine",
+      "systems": "Süsteemid",
+      "web": "Veeb"
+    }
+  },
+  "services": {
+    "overline": "Teenused",
+    "headline": "Mida me teeme.",
+    "sub": "Kolm valdkonda ühe ühise standardiga: ehitatud töötama, ehitatud kestma.",
+    "cta": "Alusta projekti",
+    "items": [
+      {
+        "label": "AI Automatiseeringud",
+        "tagline": "Töövood, mis jooksevad ise.",
+        "desc": "Kujundame ja ehitame otsast otsani automatiseerimise konveiereid, mis eemaldavad manuaalse töö sinu operatsioonist. Lihtsatest käivitajatest keerukate AI-toega otsusevoogudeni.",
+        "outcomes": [
+          "Manuaalse töö aeg vähenenud 70–95%",
+          "Järjepidev protsesside täitmine, 24/7",
+          "Vähem inimlikke vigu, kiirem läbilaskevõime",
+          "Reaalajas nähtavus töötavast"
+        ],
+        "deliverables": [
+          "Töövoo arhitektuuridokument",
+          "Ehitatud ja testitud automatiseerimise konveier",
+          "Monitoorimise ja teavituste seadistus",
+          "Käitusjuhend ja üleandmise dokumentatsioon"
+        ],
+        "timeline": "1–6 nädalat sõltuvalt keerukusest",
+        "engagement": [
+          "Käivituspõhised töövood (webhookid, cronid, vormid)",
+          "Andmete teisendamise ja rikastamise konveierid",
+          "AI-toega klassifitseerimine ja suunamine",
+          "Mitme süsteemi orkestreerimine ja sünkroonimine"
+        ]
+      },
+      {
+        "label": "Süsteemid",
+        "tagline": "Taristu, mis skaleerub.",
+        "desc": "Sisemised tööriistad, juhtpaneelid ja operatiivsed süsteemid, mis annavad sinu meeskonnale suurema tootlikkuse. Ehitame asjad, mis panevad sinu põhiäri paremini tööle ilma rohkem inimesi palkamata.",
+        "outcomes": [
+          "Täielik operatiivne nähtavus ühes kohas",
+          "Vähenenud koordineerimise koormus",
+          "Süsteemid, mis skaleeruvad koos meeskonnaga",
+          "Ei müüja lukustust ega musta kasti tööriistu"
+        ],
+        "deliverables": [
+          "Süsteemi arhitektuur ja andmemudel",
+          "Funktsionaalne sisemine rakendus",
+          "Administraatori ja rollipõhised juurdepääsukontrollid",
+          "Tehniline dokumentatsioon"
+        ],
+        "timeline": "3–8 nädalat sõltuvalt ulatusest",
+        "engagement": [
+          "Sisemised juhtpaneelid ja aruandlustööriistad",
+          "Operatiivsed andmekonveierid",
+          "Kohandatud CRM või töövoo tööriistad",
+          "Integratsioonikihid olemasolevate süsteemide vahel"
+        ]
+      },
+      {
+        "label": "Veeb",
+        "tagline": "Veebilehed, mis konverteerivad.",
+        "desc": "Tulemuslikkusele orienteeritud veebilehed ja maandumislehed, mis on ehitatud konversiooni ja selguse nimel. Käsitleme strateegiat, disaini ja ehitust—nii et tulemus peegeldab sinu positsioneerimist, mitte malli.",
+        "outcomes": [
+          "Mõõdetavalt kõrgemad konversioonimäärad",
+          "Alla 2 sekundi laadimisaeg kõikidel seadmetel",
+          "Ligipääsetav, SEO-valmis algusest peale",
+          "Koopia ja struktuur, mis teenib usaldust"
+        ],
+        "deliverables": [
+          "Strateegia ja saidi kaardi sessiooni",
+          "Täielik disain ja ehitus",
+          "CMS-i seadistus vajadusel",
+          "Tulemuslikkuse ja ligipääsetavuse audit"
+        ],
+        "timeline": "2–6 nädalat sõltuvalt ulatusest",
+        "engagement": [
+          "Turundus- ja toote maandumislehed",
+          "Täielikud ettevõtte või toote veebilehed",
+          "Kampaania mikrosaite",
+          "Konversioonile orienteeritud lehtede ümberehitamine"
+        ]
+      }
+    ],
+    "outcomesLabel": "Tulemused",
+    "deliverablesLabel": "Tarnib",
+    "timelineLabel": "Ajakava",
+    "engagementLabel": "Tüüpiline engagement",
+    "notSureText": "Pole kindel, milline teenus sobib? Räägi meile probleemist—leiame koos õige lähenemise."
+  },
+  "process": {
+    "overline": "Protsess",
+    "headline": "Viis sammu. Ei üllatusi.",
+    "sub": "Iga projekt järgib sama struktuuri. Sa tead, kus sa oled igas etapis.",
+    "steps": [
+      {
+        "n": "01",
+        "label": "Audit",
+        "desc": "Alustame sinu praeguse olukorra mõistmisest. Mis töötab, mis ei tööta, kus aeg ja raha lekib. See kujundab kõike, mis järgneb.",
+        "details": [
+          "Praeguse töövoo kaardistamine",
+          "Kitsaskohtade ja riskide tuvastamine",
+          "Ulatuse ja edukriteeriumide määratlemine",
+          "Projekti lühend ja joondamisdokument"
+        ]
+      },
+      {
+        "n": "02",
+        "label": "Plaan",
+        "desc": "Enne ühtegi koodirida lepime kokku arhitektuuris. Andmevood, komponendi struktuur, integratsioonid ja äärjuhud—kõik dokumenteeritud ja kinnitatud.",
+        "details": [
+          "Tehniline arhitektuuridisain",
+          "Andmemudeli ja voo diagrammid",
+          "Komponentide ja integratsioonide spetsifikatsioon",
+          "Ajakava ja vahe-eesmärkide kokkulepe"
+        ]
+      },
+      {
+        "n": "03",
+        "label": "Ehitus",
+        "desc": "Iteratiivne arendus iganädalaste kontrollkoosolekutega. Näed tegelikku edenemist iga nädal—mitte suurt avamist lõpus. Tagasiside lisatakse kohe.",
+        "details": [
+          "Iganädalased asünkroonsed edenemise uuendused",
+          "Inkrementaalne funktsioonide tarnimine",
+          "Pidev testimine ja kvaliteedikontroll",
+          "Ulatus muutuste märgistamine reaalajas"
+        ]
+      },
+      {
+        "n": "04",
+        "label": "Tarne",
+        "desc": "Lavastatud väljalase, lõplik kvaliteedikontroll ja struktureeritud üleandmine. Saad dokumentatsiooni, läbikäimise sessiooni ja kõik, mida vajad, et meie ehitatud asju kasutada.",
+        "details": [
+          "Lavastatud juurutamine ja lõplik kvaliteedikontroll",
+          "Tulemuslikkuse ja turvakontrollid",
+          "Reaalajas üleandmissessioon",
+          "Täielik tehniline dokumentatsioon"
+        ]
+      },
+      {
+        "n": "05",
+        "label": "Itereeri",
+        "desc": "Parimad süsteemid paranevad pärast käivitamist. Pakume struktureeritud pärast-tarne tuge ja iteratsioonitsükleid reaalse kasutuse, andmete ja tagasiside põhjal.",
+        "details": [
+          "Pärast-tarne monitoorimise periood",
+          "Kasutuspõhine iteratsiooni mahajäämus",
+          "Tulemuslikkuse optimeerimine",
+          "Jätkuv Partner engagement saadaval"
+        ]
+      }
+    ],
+    "detailsLabel": "Mis siin juhtub:",
+    "cta": {
+      "headline": "Valmis alustama?",
+      "cta": "Alusta auditiga"
+    }
+  },
+  "contact": {
+    "overline": "Kontakt",
+    "headline": "Räägi meile oma projektist.",
+    "sub": "Loeme iga sõnumit ja vastame ühe tööpäeva jooksul.",
+    "form": {
+      "name": "Täisnimi",
+      "email": "E-posti aadress",
+      "company": "Ettevõte",
+      "website": "Veebileht (valikuline)",
+      "message": "Mida sa püüad lahendada?",
+      "budget": "Eelarve vahemik",
+      "budgetOptions": [
+        "Alla €2 500",
+        "€2 500–5 000",
+        "€5 000–10 000",
+        "€10 000–25 000",
+        "€25 000+"
+      ],
+      "urgency": "Ajakava",
+      "urgencyOptions": [
+        "Nii kiiresti kui võimalik",
+        "1 kuu jooksul",
+        "1–3 kuud",
+        "Uurin võimalusi"
+      ],
+      "budgetPlaceholder": "Vali vahemik",
+      "urgencyPlaceholder": "Vali ajakava",
+      "submit": "Saada sõnum",
+      "submitting": "Saadan..."
+    },
+    "thanks": {
+      "headline": "Sõnum vastu võetud.",
+      "sub": "Võtame sinuga ühendust ühe tööpäeva jooksul. Vahepeal vaata meie hiljutisi töid.",
+      "cta": "Vaata meie töid"
+    },
+    "info": {
+      "emailLabel": "Kirjuta meile",
+      "email": "hello@agency99.ee",
+      "responseLabel": "Vastamisaeg",
+      "response": "1 tööpäeva jooksul",
+      "locationLabel": "Asukoht",
+      "location": "Tallinn, Eesti"
+    }
+  },
+  "legal": {
+    "overline": "Õiguslik",
+    "privacy": {
+      "headline": "Privaatsuspoliitika",
+      "updated": "Viimati uuendatud: jaanuar 2025",
+      "sections": [
+        {
+          "title": "Kogutav teave",
+          "body": "Kogume teavet, mida esitate otse meie kontaktvormi kasutades, sealhulgas nimi, e-posti aadress, ettevõtte nimi ja projekti üksikasjad. Me ei kogu andmeid küpsiste ega jälgimisskriptide kaudu."
+        },
+        {
+          "title": "Teabe kasutamine",
+          "body": "Kasutame teie esitatud teavet üksnes teie päringule vastamiseks ja, kui saate kliendiks, meie teenuste osutamiseks. Me ei müü, rendi ega jaga teie andmeid kolmandatele osapooltele turunduslikel eesmärkidel."
+        },
+        {
+          "title": "Andmete säilitamine",
+          "body": "Säilitame kontaktteavet nii kaua, kui see on vajalik kogumise eesmärgi täitmiseks. Võite igal ajal taotleda oma andmete kustutamist, võttes meiega ühendust aadressil hello@agency99.ee."
+        },
+        {
+          "title": "Teie õigused",
+          "body": "GDPR alusel on teil õigus oma isikuandmetele juurde pääseda, neid parandada või kustutada. Teil on ka õigus töötlemisele vastuväite esitamiseks ja andmete teisaldatavuseks. Nende õiguste kasutamiseks võtke ühendust aadressil hello@agency99.ee."
+        },
+        {
+          "title": "Kontakt",
+          "body": "Privaatsusega seotud küsimuste korral võtke ühendust aadressil hello@agency99.ee."
+        }
+      ]
+    },
+    "terms": {
+      "headline": "Kasutustingimused",
+      "updated": "Viimati uuendatud: jaanuar 2025",
+      "sections": [
+        {
+          "title": "Tingimuste nõustumine",
+          "body": "Agency 99 teenuste kasutamisega nõustute nende tingimustega. Ametlik engagement algab allkirjastatud ettepaneku või töökirjeldusega."
+        },
+        {
+          "title": "Teenused",
+          "body": "Agency 99 pakub AI automatiseerimise, süsteemiehituse ja veebiarenduse teenuseid, nagu on kirjeldatud iga projekti tööulatuses. Tarnid ja ajakavad lepitakse kirjalikult kokku enne töö alustamist."
+        },
+        {
+          "title": "Makse",
+          "body": "Maksetingimused on esitatud igas projektilepingus. Arved tuleb tasuda 14 päeva jooksul alates väljastamisest, kui ei ole kirjalikult teisiti kokku lepitud."
+        },
+        {
+          "title": "Intellektuaalomand",
+          "body": "Pärast täielikku tasumist saavad kliendid omandiõiguse kõigile nende projekti jaoks loodud kohandatud koodile ja varadele. Agency 99 säilitab õiguse töid oma portfoolios esitada, välja arvatud juhul, kui on kokku lepitud teisiti."
+        },
+        {
+          "title": "Vastutuse piirang",
+          "body": "Agency 99 vastutus on piiratud asjakohase projektilepingu väärtusega. Me ei vastuta kaudsete ega järelduslike kahjude eest, mis tulenevad meie tarnide kasutamisest."
+        }
+      ]
+    }
+  }
+}
