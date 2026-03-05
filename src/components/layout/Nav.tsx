@@ -1,19 +1,16 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
 import { usePathname, Link, useRouter } from '@/i18n/navigation';
 import { Button } from '@/components/ui/Button';
 import { Menu, X } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { motion, AnimatePresence } from 'framer-motion';
 
-interface NavProps {
-  locale: string;
-}
-
-export function Nav({ locale }: NavProps) {
+export function Nav() {
   const t = useTranslations('nav');
+  const locale = useLocale();
   const pathname = usePathname();
   const router = useRouter();
   const [scrolled, setScrolled] = useState(false);

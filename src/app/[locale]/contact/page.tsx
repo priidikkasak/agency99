@@ -136,7 +136,7 @@ export default function ContactPage() {
                         value={form.name}
                         onChange={handleChange}
                         className={inputClass}
-                        placeholder="Jane Smith"
+                        placeholder={tf('namePlaceholder')}
                       />
                     </div>
                     <div>
@@ -151,7 +151,7 @@ export default function ContactPage() {
                         value={form.email}
                         onChange={handleChange}
                         className={inputClass}
-                        placeholder="jane@company.com"
+                        placeholder={tf('emailPlaceholder')}
                       />
                     </div>
                   </div>
@@ -169,7 +169,7 @@ export default function ContactPage() {
                         value={form.company}
                         onChange={handleChange}
                         className={inputClass}
-                        placeholder="Acme Inc."
+                        placeholder={tf('companyPlaceholder')}
                       />
                     </div>
                     <div>
@@ -183,7 +183,7 @@ export default function ContactPage() {
                         value={form.website}
                         onChange={handleChange}
                         className={inputClass}
-                        placeholder="https://acme.com"
+                        placeholder={tf('websitePlaceholder')}
                       />
                     </div>
                   </div>
@@ -241,7 +241,7 @@ export default function ContactPage() {
                       value={form.message}
                       onChange={handleChange}
                       className={cn(inputClass, 'resize-none')}
-                      placeholder="Describe the problem you're trying to solve..."
+                      placeholder={tf('messagePlaceholder')}
                     />
                   </div>
 

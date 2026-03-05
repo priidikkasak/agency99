@@ -434,6 +434,11 @@
         "1–3 months",
         "Just exploring"
       ],
+      "namePlaceholder": "Jane Smith",
+      "emailPlaceholder": "jane@company.com",
+      "companyPlaceholder": "Acme Inc.",
+      "websitePlaceholder": "https://acme.com",
+      "messagePlaceholder": "Describe the problem you're trying to solve...",
       "budgetPlaceholder": "Select range",
       "urgencyPlaceholder": "Select timeline",
       "submit": "Send message",
